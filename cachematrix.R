@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## these functions combined allow you to input a matrix, compute/return its 
+## inverse, and cache that inverse for repeated use
 
 ## this function sets up a list of functions to be used on a matrix (x)
 ## these functions can be called on later using x$ operator, particularly
